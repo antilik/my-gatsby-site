@@ -2,7 +2,7 @@
  * @type {import('gatsby').GatsbyConfig}
  */
 module.exports = {
-  pathPrefix: "antilik.github.io",
+  pathPrefix: "antilik.github.io/",
   siteMetadata: {
     title: `My First Gatsby Site`,
   },
